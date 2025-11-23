@@ -69,7 +69,7 @@ public class DiceRoller
         dice4 = """
          -------
         | ●   ● |
-        |       |
+        |        |
         | ●   ● |
          -------
         """ ;
